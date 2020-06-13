@@ -1,0 +1,55 @@
+Insertion sort runtime on ordered array of length 100000:  0 milliseconds
+Insertion sort verified.
+
+Insertion sort runtime on random array of length 100000:  4687 milliseconds
+Insertion sort verified.
+
+Object-based heap sort runtime on ordered array of length 100000:  54 milliseconds
+Object-based heap sort verified.
+
+Object-based heap sort runtime on random array of length 100000:  85 milliseconds
+Object-based heap sort verified.
+
+In place heap sort runtime on ordered array of length 100000:  31 milliseconds
+In place heap sort verified.
+
+In place heap sort runtime on random array of length 100000:  15 milliseconds
+In place heap sort verified.
+
+Insertion sort runtime on ordered array of length 200000:  0 milliseconds
+Insertion sort verified.
+
+Insertion sort runtime on random array of length 200000:  6651 milliseconds
+Insertion sort verified.
+
+Object-based heap sort runtime on ordered array of length 200000:  47 milliseconds
+Object-based heap sort verified.
+
+Object-based heap sort runtime on random array of length 200000:  128 milliseconds
+Object-based heap sort verified.
+
+In place heap sort runtime on ordered array of length 200000:  22 milliseconds
+In place heap sort verified.
+
+In place heap sort runtime on random array of length 200000:  31 milliseconds
+In place heap sort verified.
+
+Insertion sort runtime on ordered array of length 400000:  0 milliseconds
+Insertion sort verified.
+
+Insertion sort runtime on random array of length 400000:  26848 milliseconds
+Insertion sort verified.
+
+Object-based heap sort runtime on ordered array of length 400000:  90 milliseconds
+Object-based heap sort verified.
+
+Object-based heap sort runtime on random array of length 400000:  279 milliseconds
+Object-based heap sort verified.
+
+In place heap sort runtime on ordered array of length 400000:  53 milliseconds
+In place heap sort verified.
+
+In place heap sort runtime on random array of length 400000:  69 milliseconds
+In place heap sort verified.
+
+Done!
